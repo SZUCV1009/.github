@@ -6,12 +6,11 @@
 
 ddd
 ## 📂 项目总目录
-
-👉 **所有项目的统一入口在此：**  
-🔗 https://github.com/ORG_NAME/lab-project-index
-
-> 项目目录由管理员维护，请勿在本页面直接添加学生项目。
-
+| 作者 | 论文名称 | 会议 / 期刊 | 项目链接 |
+|------|----------|-------------|----------|
+| 张三 | Deep Learning for Image Classification | CVPR 2023 | https://github.com/SZUCV1009/zhangsan-project |
+| 李四 | Reinforcement Learning in Robotics | ICRA 2024 | https://github.com/SZUCV1009/lisi-project |
+| 王五 | 3D Reconstruction with Neural Fields | ICCV 2023 | https://github.com/SZUCV1009/wangwu-project |
 ---
 ## 📌 使用说明（请所有成员阅读）
 
