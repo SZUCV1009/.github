@@ -53,6 +53,7 @@ git push
 project-name/
 ├── README.md        # 项目说明（必需）
 ├── src/             # 源代码
+├── model/           # 训练好的模型，包括消融实验等。
 ├── demo/            # 演示文件（视频 / 图片 / 可执行文件）
 └── docs/            # 相关文档（可选）
 
