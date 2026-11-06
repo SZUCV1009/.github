@@ -4,12 +4,6 @@
 该实验室lab用于集中管理实验室课程实验、科研项目与技术 Demo。
 管理员：陈劲铧 电话：13662644116 邮箱：1005741898@qq.com
 
-## 📂 项目总目录
-| 作者 | 论文名称 | 会议 / 期刊 | 项目链接 |
-|------|----------|-------------|----------|
-| 张三 | Deep Learning for Image Classification | CVPR 2023 | https://github.com/SZUCV1009/zhangsan-project |
-| 李四 | Reinforcement Learning in Robotics | ICRA 2024 | https://github.com/SZUCV1009/lisi-project |
-| 王五 | 3D Reconstruction with Neural Fields | ICCV 2023 | https://github.com/SZUCV1009/wangwu-project |
 ---
 ## 📌 使用说明（请所有成员阅读）
 
